@@ -38,7 +38,7 @@
             </configuration>
         </plugin>
 
-        <!-- Upgraded Jetty plugin to a version compatible with modern JDKs -->
+        <!-- Fixed Jetty version compatible with Java 21 -->
         <plugin>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-maven-plugin</artifactId>
